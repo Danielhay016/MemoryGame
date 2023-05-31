@@ -1,7 +1,4 @@
-/*
-Daniel Hay 209042720
-Noya Ossi 318638053
-*/
+
 $(document).ready(function() {
     // Variable Declarations
     let playerName;          // Stores the name of the player
